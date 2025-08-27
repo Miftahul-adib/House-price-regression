@@ -8,6 +8,8 @@ This repository contains a machine learning project for predicting house prices 
 
 [House prices advanced regression techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
 
+#### **I was in the top 5% when i submitted in this competition back in 2024**
+
 ## 📌 Project Objective
 
 Build and evaluate regression models to predict the final price of homes using various numerical and categorical features.
