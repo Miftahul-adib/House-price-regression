@@ -3,6 +3,11 @@
 
 This repository contains a machine learning project for predicting house prices based on various features. The dataset used is the **House Prices - Advanced Regression Techniques** dataset from Kaggle.
 
+
+## Competition:
+
+[House prices advanced regression techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)
+
 ## 📌 Project Objective
 
 Build and evaluate regression models to predict the final price of homes using various numerical and categorical features.
